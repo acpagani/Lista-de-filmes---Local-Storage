@@ -106,6 +106,7 @@ btn1.addEventListener('click',()=>{
     inputUsuario.value = ''
 })
 
+/*
 Função que é executada quando o botão de favorito é clicado
 */
 
